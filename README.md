@@ -8,16 +8,16 @@
   <br>
 
   <!-- Academic & Location Badges -->
-  <img src="https://img.shields.io/badge/B.Tech_AI_&_Data_Science-181717?style=for-the-badge&logo=googlescholar&logoColor=8A2BE2" alt="Degree" />[cite: 1]
-  <img src="https://img.shields.io/badge/Location-Kallakurichi,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=8A2BE2" alt="Location" />[cite: 1]
+  <img src="https://img.shields.io/badge/B.Tech_AI_&_Data_Science-181717?style=for-the-badge&logo=googlescholar&logoColor=8A2BE2" alt="Degree" />
+  <img src="https://img.shields.io/badge/Location-Kallakurichi,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=8A2BE2" alt="Location" />
   
   <br><br>
 
   <!-- Social & Contact Badges -->
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=vercel&logoColor=8A2BE2" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/shagula737"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>[cite: 1]
-  <a href="mailto:shagula737@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>[cite: 1]
-  <a href="https://github.com/shagula737"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>[cite: 1]
+  <a href="https://linkedin.com/in/shagula737"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" /></a>
+  <a href="mailto:shagula737@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=8A2BE2" alt="Email" /></a>
+  <a href="https://github.com/shagula737"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=8A2BE2" alt="GitHub" /></a>
 
   <br><br>
 
@@ -102,7 +102,6 @@ My engineering philosophy centers around clean core extension principles and del
   | **Performance** | Optimized transactional data handling[cite: 1] |
   | **Security** | Role-based authorization via behavior definitions[cite: 1] |
   | **Impact** | Streamlined lifecycle actions (Submit, Approve, Reject, Cancel)[cite: 1] |
-  | **Repository** | [View Source Code](#) |
   
   **Professional Explanation:** Created database tables, CDS views (interface & projection), and behavior definitions for transactional data handling[cite: 1]. Integrated value help (F4) for dynamic selection of leave types and duration types to significantly enhance UI usability[cite: 1].
 </details>
@@ -120,7 +119,6 @@ My engineering philosophy centers around clean core extension principles and del
   | **Performance** | High-speed real-time preview and dynamic rendering[cite: 1] |
   | **Security** | Secure user authentication and protected routing[cite: 1] |
   | **Impact** | Accelerated web development workflows with auto-generated downloadable source code[cite: 1] |
-  | **Repository** | [View Source Code](#) |
   
   **Professional Explanation:** Implemented secure user authentication, project management, real-time preview, code editor, and downloadable source code generation capabilities, leveraging a scalable MERN stack architecture connected to complex Gen-AI models[cite: 1].
 </details>
@@ -138,7 +136,6 @@ My engineering philosophy centers around clean core extension principles and del
   | **Performance** | Real-time structured data processing[cite: 1] |
   | **Security** | Strict backend logic data validation[cite: 1] |
   | **Impact** | Automated template generation and dynamic UI actions[cite: 1] |
-  | **Repository** | [View Source Code](#) |
   
   **Professional Explanation:** Implemented database tables, CDS views, behavior definitions, and service bindings for end-to-end data handling[cite: 1]. Ensured robust data validation and real-time updates through secure backend logic within the RAP framework[cite: 1].
 </details>
@@ -156,7 +153,6 @@ My engineering philosophy centers around clean core extension principles and del
   | **Performance** | Rapid localized testing and responsive client updates |
   | **Security** | Isolated service boundaries via RESTful integration |
   | **Impact** | Proactive system health visibility and modernized telemetry |
-  | **Repository** | [View Source Code](#) |
   
   **Professional Explanation:** Chose and integrated a highly decoupled architecture combining a Node.js backend, a React frontend, and dedicated Python-based AI microservices. Navigated complex local development network configurations (e.g., port routing) to ensure seamless communication across the disparate application layers.
 </details>
