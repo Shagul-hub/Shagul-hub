@@ -1,83 +1,69 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,1d003b,4b0082,8a2be2,4b0082,1d003b&height=190&section=header&text=Shagul%20A&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0033,50:4B0082,100:8A2BE2&height=280&section=header&text=SHAGUL%20A&fontSize=70&fontColor=E8D9FF&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20•%20AI%2FML%20Engineer%20•%20SAP%20ABAP%20Cloud%20Developer&descAlignY=55&descSize=19&descColor=B794F6"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A970FF&center=true&vCenter=true&width=780&lines=SAP+ABAP+Cloud+Developer;AI+%26+Data+Science+Undergraduate;Full-Stack+Systems+Builder+(MERN);Turning+Enterprise+Logic+Into+Intelligent+Products" alt="Typing SVG" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2800&pause=1200&color=B794F6&center=true&vCenter=true&width=700&lines=Final-Year+AI+%26+Data+Science+Undergraduate;SAP+ABAP+Cloud+%7C+RAP+%7C+CDS+Views+%7C+OData;Building+with+Python%2C+Java%2C+MERN+%26+Generative+AI;Turning+Ideas+Into+Production-Ready+Systems" alt="Typing SVG" />
-</a>
+  <br>
 
-<br/>
+  <img src="https://img.shields.io/badge/B.Tech-AI_%26_Data_Science-181717?style=for-the-badge&logo=googlescholar&logoColor=A970FF" alt="Degree" />
+  <img src="https://img.shields.io/badge/Final_Year-Class_of_2027-181717?style=for-the-badge&logo=googlescholar&logoColor=A970FF" alt="Year" />
+  <img src="https://img.shields.io/badge/Location-Kallakurichi,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=A970FF" alt="Location" />
 
-<img src="https://img.shields.io/badge/🎓_B.Tech-AI_%26_Data_Science-6A0DAD?style=for-the-badge&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/📍_Kallakurichi-Tamil_Nadu,_India-4B0082?style=for-the-badge&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/🎓_Final_Year-Class_of_2027-8A2BE2?style=for-the-badge&labelColor=1a0033" />
+  <br><br>
 
-<br/><br/>
+  <a href="https://linkedin.com/in/shagula737"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=A970FF" alt="LinkedIn" /></a>
+  <a href="mailto:shagula737@gmail.com"><img src="https://img.shields.io/badge/Email-181717?style=for-the-badge&logo=gmail&logoColor=A970FF" alt="Email" /></a>
+  <a href="https://github.com/shagula737"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A970FF" alt="GitHub" /></a>
+  <a href="https://leetcode.com/shagula737"><img src="https://img.shields.io/badge/LeetCode-181717?style=for-the-badge&logo=leetcode&logoColor=A970FF" alt="LeetCode" /></a>
+  <a href="https://credly.com/users/shagula737"><img src="https://img.shields.io/badge/Credly-181717?style=for-the-badge&logo=credly&logoColor=A970FF" alt="Credly" /></a>
 
-<a href="https://github.com/shagula" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=B794F6" /></a>
-<a href="https://linkedin.com/in/shagula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=B794F6" /></a>
-<a href="mailto:shagula737@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-1a0033?style=for-the-badge&logo=gmail&logoColor=B794F6" /></a>
-<a href="https://leetcode.com/shagula" target="_blank"><img src="https://img.shields.io/badge/LeetCode-1a0033?style=for-the-badge&logo=leetcode&logoColor=B794F6" /></a>
-<a href="https://credly.com/users/shagula" target="_blank"><img src="https://img.shields.io/badge/Credly-1a0033?style=for-the-badge&logo=credly&logoColor=B794F6" /></a>
+  <br><br>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=shagula&style=for-the-badge&color=6a0dad&labelColor=1a0033&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/shagula?style=for-the-badge&color=8a2be2&labelColor=1a0033&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/shagula?style=for-the-badge&color=b794f6&labelColor=1a0033&label=STARS" />
-
+  <img src="https://komarev.com/ghpvc/?username=shagula737&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/shagula737?label=Followers&style=for-the-badge&color=4B0082&logo=github" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/shagula737?label=Stars&style=for-the-badge&color=2e004f&logo=github" alt="Stars" />
 </div>
 
-<br/>
+<br>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="0" height="0" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="0" height="0" />
+</p>
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ About Me
+## ✦ About
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" />
+I'm an **SAP Certified Associate — ABAP Cloud Back-End Developer** with hands-on experience building transactional applications using SAP RAP, CDS Views, and OData Services on SAP BTP. I'm currently in my **final year of a B.Tech in Artificial Intelligence and Data Science**, which puts me in a fairly uncommon position: I understand both classical enterprise architecture and modern AI tooling well enough to connect the two.
 
-```yaml
-whoami: "Shagul A"
-status: "Final-Year B.Tech Undergrad — Artificial Intelligence & Data Science"
-university: "Karpagam College of Engineering, Coimbatore (2023 – 2027)"
+My engineering approach is built on **clean-core extension principles** — I'd rather build cloud-ready, upgrade-safe SAP applications than take shortcuts that break on the next release. Alongside that, I build **full-stack, AI-integrated products** using the MERN stack and Python — most recently an app that turns natural-language prompts into working, downloadable web applications using Google Gemini AI.
 
-core_identity:
-  - SAP Certified Associate — ABAP Cloud Back-End Developer
-  - Software Developer with full-stack (MERN) exposure
-  - Emerging AI / ML & Generative AI practitioner
-
-mission: >
-  Bridging enterprise-grade SAP engineering with modern AI capabilities —
-  building clean, cloud-ready, intelligent applications.
-```
-
-I'm a final-year **Artificial Intelligence & Data Science** undergraduate who works across two worlds that rarely meet: **enterprise SAP engineering** and **modern AI/software development**. On one side, I build transactional, cloud-ready applications using **SAP RAP, CDS Views, and OData Services** on SAP BTP, following clean-core extension principles. On the other, I build **AI-powered full-stack products** — like a natural-language web app generator using the MERN stack and Google Gemini AI.
-
-I'm not boxing myself into a single title. I'm actively growing as a **Software Developer**, an **AI/ML Engineer**, and an **SAP ABAP Cloud Developer** — and I enjoy work that sits at the intersection of all three: clean logic, scalable architecture, and intelligent, user-facing systems.
+I'm not narrowing myself to one lane yet — I'm deliberately building strength across **SAP Cloud development**, **software engineering**, and **applied AI/ML**, because that combination is where I want my career to land.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 **🎯 Open To**
-- Software Developer roles (Full Stack / Backend)
-- AI/ML Engineer & Generative AI opportunities
-- SAP ABAP Cloud Developer positions
-- Internships & final-year project collaborations
+- SAP ABAP Cloud Developer roles
+- Software Developer (Full Stack) roles
+- AI/ML & Generative AI opportunities
+- Internships & final-year collaborations
 - Open source contributions
 
 </td>
 <td width="50%" valign="top">
 
 **🧭 Currently**
-- Deepening Python & ML fundamentals
+- Strengthening Machine Learning fundamentals
+- Practicing DSA on LeetCode
 - Exploring Generative AI application design
-- Strengthening DSA on LeetCode
-- Building SAP RAP-based enterprise apps
+- Deepening SAP RAP / clean-core patterns
 
 </td>
 </tr>
@@ -85,74 +71,65 @@ I'm not boxing myself into a single title. I'm actively growing as a **Software 
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Tech Arsenal
+## ✦ Tech Stack
 
 <div align="center">
 
-<table>
-<tr><td width="100%">
-
 **Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" />
+<br>
+<img src="https://skillicons.dev/icons?i=py,java,js,html,css&theme=dark" alt="Languages" />
+<br>
+<sub>ABAP (Core & Cloud) · Python · Java · JavaScript · SQL · HTML · CSS</sub>
 
-</td></tr>
-<tr><td width="100%">
+<br><br>
+
+**Frontend**
+<br>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" alt="Frontend" />
+
+<br><br>
+
+**Backend & Databases**
+<br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend and Databases" />
+<br>
+<sub>SAP HANA · SAP BTP · OData Services</sub>
+
+<br><br>
 
 **SAP Ecosystem**
-<br/>
-<img src="https://img.shields.io/badge/ABAP-Core_&_Cloud-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/SAP_RAP-Restful_App_Programming-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/CDS_Views-Core_Data_Services-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/OData_Services-Enabled-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/SAP_BTP-Business_Tech_Platform-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/SAP_Fiori-UI_Layer-6A0DAD?style=flat-square&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/WRICEF-Concepts-6A0DAD?style=flat-square&labelColor=1a0033" />
+<br>
+<img src="https://img.shields.io/badge/ABAP-Core_%26_Cloud-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/SAP_RAP-Restful_App_Programming-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/CDS_Views-Core_Data_Services-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/OData_Services-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/SAP_BTP-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/SAP_Fiori-181717?style=flat-square&logoColor=A970FF" />
+<img src="https://img.shields.io/badge/WRICEF-Concepts-181717?style=flat-square&logoColor=A970FF" />
 
-</td></tr>
-<tr><td width="100%">
+<br><br>
 
-**Full Stack / Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,express&theme=dark" />
-
-</td></tr>
-<tr><td width="100%">
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
-<img src="https://img.shields.io/badge/SAP_HANA-1a0033?style=flat-square&logo=sap&logoColor=B794F6" />
-
-</td></tr>
-<tr><td width="100%">
-
-**Tools & IDEs**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,git&theme=dark" />
-<img src="https://img.shields.io/badge/Eclipse_ADT-1a0033?style=flat-square&logo=eclipseide&logoColor=B794F6" />
-<img src="https://img.shields.io/badge/MySQL_Workbench-1a0033?style=flat-square&logo=mysql&logoColor=B794F6" />
-
-</td></tr>
-</table>
+**Cloud, DevOps & Tooling**
+<br>
+<img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Cloud and DevOps" />
+<img src="https://img.shields.io/badge/Eclipse_ADT-181717?style=flat-square&logo=eclipseide&logoColor=A970FF" />
 
 </div>
 
-### ⟡ Skill Confidence
+### ✦ Skill Confidence
 
 <div align="center">
 
 | Skill | Level |
 |---|---|
-| ABAP (Core & Cloud) | ▰▰▰▰▰▰▰▰▰▱ 90% |
-| SAP RAP / CDS Views | ▰▰▰▰▰▰▰▰▱▱ 85% |
+| ABAP (Core & Cloud) / SAP RAP | ▰▰▰▰▰▰▰▰▰▱ 90% |
+| SQL | ▰▰▰▰▰▰▰▰▱▱ 80% |
 | Python | ▰▰▰▰▰▰▰▱▱▱ 75% |
 | Java | ▰▰▰▰▰▰▰▱▱▱ 70% |
-| SQL | ▰▰▰▰▰▰▰▰▱▱ 80% |
 | JavaScript / React / Node.js | ▰▰▰▰▰▰▰▱▱▱ 70% |
 | Communication & Collaboration | ▰▰▰▰▰▰▰▰▰▱ 90% |
 
@@ -160,93 +137,89 @@ I'm not boxing myself into a single title. I'm actively growing as a **Software 
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ AI / ML & Emerging Focus
+## ✦ AI / ML Expertise
 
 <div align="center">
 
 | Domain | Proficiency | Details |
 |---|:---:|---|
-| **Generative AI Applications** | ⭐⭐⭐⭐ | Built an AI web-app generator using Google Gemini AI + natural language prompts |
-| **Machine Learning Fundamentals** | ⭐⭐⭐ | Core ML concepts as part of B.Tech AI & Data Science coursework |
-| **Responsible & Large Language Models** | ⭐⭐⭐⭐ | Google Cloud certified — Responsible AI, Generative AI, and LLMs |
-| **Full Stack AI Integration** | ⭐⭐⭐⭐ | Integrating LLM APIs into real-time, production-style web apps |
-| **Data Structures & Algorithms** | ⭐⭐⭐ | Active LeetCode practice for strong problem-solving fundamentals |
+| **Generative AI** | ⭐⭐⭐⭐ | Google Gemini AI integration, prompt-to-code generation, LLM-driven app building |
+| **Machine Learning** | ⭐⭐⭐ | Core ML concepts — supervised/unsupervised learning, model evaluation |
+| **Data Science** | ⭐⭐⭐ | Data processing pipelines as part of B.Tech AI & Data Science coursework |
+| **Responsible & Applied AI** | ⭐⭐⭐⭐ | Google Cloud certified — Responsible AI, Generative AI, and LLM fundamentals |
 
 </div>
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Featured Projects
+## ✦ Featured Projects
 
 <details open>
 <summary><b>🔮 AI-Powered Web App Builder — MERN Stack & Google Gemini AI</b></summary>
-<br/>
+<br>
 
-An AI-powered web application that generates complete web apps from natural language prompts, combining a full MERN stack with Google's Gemini AI for code generation and live preview.
+An AI-powered web application that generates complete web apps from natural language prompts, using Google Gemini AI for code generation.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
 | **Stack** | React.js, Node.js, MongoDB Atlas, REST APIs, Google Gemini AI |
 | **Core Features** | Secure user authentication, project management, real-time preview |
 | **Highlights** | In-browser code editor, downloadable source code generation |
 | **Architecture** | Scalable full-stack architecture with modular API design |
-| **Repository** | [github.com/shagula/ai-webapp-builder](https://github.com/shagula) |
 
-Built to explore how generative AI can accelerate software creation — the app takes a plain-English prompt and produces a working web application, complete with an editable codebase and instant preview, making it a practical playground for LLM-driven development workflows.
+**Professional Explanation:** Built to explore how generative AI can accelerate software creation — the app takes a plain-English prompt and produces a working web application, complete with an editable codebase and instant preview.
 
 </details>
 
 <details>
 <summary><b>📋 Custom Leave Application System — SAP RAP</b></summary>
-<br/>
+<br>
 
-An end-to-end Leave Management application built entirely on SAP RAP and ABAP Cloud, covering the full leave lifecycle from submission to approval.
+An end-to-end Leave Management application built on SAP RAP and ABAP Cloud, covering the full leave lifecycle from submission to approval.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
 | **Stack** | ABAP Cloud, SAP RAP, CDS Views (Interface & Projection), SAP BTP |
 | **Core Features** | Submit, Approve, Reject, and Cancel actions via RAP behavior implementation |
 | **UX Enhancement** | Integrated F4 value help for dynamic leave-type and duration selection |
 | **Data Layer** | Custom database tables with structured behavior definitions |
-| **Repository** | [github.com/shagula/leave-application-rap](https://github.com/shagula) |
 
-Designed following clean-core principles, this project models a real enterprise HR workflow — demonstrating transactional business logic, lifecycle state management, and usability improvements within the SAP RAP framework.
+**Professional Explanation:** Designed following clean-core principles, this project models a real enterprise HR workflow — demonstrating transactional business logic and lifecycle state management within the SAP RAP framework.
 
 </details>
 
 <details>
 <summary><b>📊 Excel Upload & Download System — SAP RAP</b></summary>
-<br/>
+<br>
 
-An SAP RAP-based application enabling structured Excel data upload and download using ABAP Cloud, built for reliable enterprise data handling.
+An SAP RAP-based application enabling structured Excel data upload and download using ABAP Cloud.
 
-| Attribute | Detail |
+| Category | Details |
 |---|---|
 | **Stack** | ABAP Cloud, SAP RAP, CDS Views, Behavior Definitions, Service Bindings |
 | **Core Features** | File upload, dynamic template generation, dynamic UI actions |
 | **Data Integrity** | Real-time validation and structured backend processing |
 | **Architecture** | End-to-end data handling from database table to service binding |
-| **Repository** | [github.com/shagula/excel-upload-rap](https://github.com/shagula) |
 
-Focused on making bulk data operations robust and user-friendly within SAP — this project handles the full pipeline from raw Excel input to validated, structured backend data using the RAP framework's transactional model.
+**Professional Explanation:** Handles the full pipeline from raw Excel input to validated, structured backend data using the RAP framework's transactional model.
 
 </details>
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Education
+## ✦ Education
 
 <table>
 <tr>
@@ -255,7 +228,7 @@ Focused on making bulk data operations robust and user-friendly within SAP — t
 
 **Bachelor of Technology — Artificial Intelligence and Data Science**
 Karpagam College of Engineering, Coimbatore, Tamil Nadu
-CGPA: **8.2** · Currently in Final Year
+CGPA: **8.2** · Final Year
 
 </td>
 </tr>
@@ -263,8 +236,7 @@ CGPA: **8.2** · Currently in Final Year
 <td valign="top"><b>2022 – 2023</b></td>
 <td>
 
-**Higher Secondary Certificate (HSC)**
-Mahabharathi International School (CBSE), Kallakurichi · **71.4%**
+**Higher Secondary Certificate (HSC)** — Mahabharathi International School (CBSE), Kallakurichi · **71.4%**
 
 </td>
 </tr>
@@ -272,8 +244,7 @@ Mahabharathi International School (CBSE), Kallakurichi · **71.4%**
 <td valign="top"><b>2020 – 2021</b></td>
 <td>
 
-**Secondary School Leaving Certificate (SSLC)**
-Mahabharathi International School (CBSE), Kallakurichi · **70.4%**
+**Secondary School Leaving Certificate (SSLC)** — Mahabharathi International School (CBSE), Kallakurichi · **70.4%**
 
 </td>
 </tr>
@@ -281,95 +252,113 @@ Mahabharathi International School (CBSE), Kallakurichi · **70.4%**
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Certifications
-
-**SAP**
-
-<img src="https://img.shields.io/badge/SAP_Certified_Associate-ABAP_Cloud_Back--End_Developer-0FAAFF?style=for-the-badge&logo=sap&logoColor=white&labelColor=1a0033" />
-
-**Google Cloud**
-
-<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Generative_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Large_Language_Models-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1a0033" />
-<img src="https://img.shields.io/badge/Google_Cloud-Introduction_to_Responsible_AI-4285F4?style=flat-square&logo=googlecloud&logoColor=white&labelColor=1a0033" />
-
-**HackerRank**
-
-<img src="https://img.shields.io/badge/HackerRank-Frontend_Developer_(React)-2EC866?style=flat-square&logo=hackerrank&logoColor=white&labelColor=1a0033" />
+## ✦ Achievements
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
-
-</div>
-
-## ⟡ Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/shagula" target="_blank"><img src="https://img.shields.io/badge/LeetCode-Active_Problem_Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=1a0033" /></a>
-<a href="https://credly.com/users/shagula" target="_blank"><img src="https://img.shields.io/badge/Credly-Verified_Badges-FF6B00?style=for-the-badge&logo=credly&logoColor=white&labelColor=1a0033" /></a>
+| Recognition | Details |
+|---|---|
+| **Academic Excellence** | Maintaining an 8.2 CGPA in a rigorous B.Tech in AI & Data Science |
+| **Enterprise Certification** | SAP Certified Associate — ABAP Cloud Back-End Developer |
+| **Clean Core Advocate** | Applies clean-core extension principles for scalable, upgrade-safe ABAP applications |
+| **Cross-Domain Builder** | Bridges classical SAP enterprise development with modern MERN + Generative AI stacks |
 
 </div>
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ GitHub Analytics
+## ✦ Certifications
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shagula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=B794F6&icon_color=8A2BE2&text_color=c9d1d9&ring_color=6A0DAD" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shagula&theme=tokyonight&hide_border=true&background=0d0221&ring=6A0DAD&fire=B794F6&currStreakLabel=B794F6" width="48%" />
+**Enterprise Architecture**
+<br>
+<img src="https://img.shields.io/badge/SAP_Certified_Associate-ABAP_Cloud_Back--End_Developer-181717?style=for-the-badge&logo=sap&logoColor=A970FF" alt="SAP ABAP Cloud" />
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagula&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=B794F6&text_color=c9d1d9" width="48%" />
+**Frontend Development**
+<br>
+<img src="https://img.shields.io/badge/Frontend_Developer_(React)-HackerRank-181717?style=for-the-badge&logo=hackerrank&logoColor=A970FF" alt="React Hackerrank" />
 
-</div>
+<br><br>
 
-## ⟡ GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=shagula&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
-
-</div>
-
-## ⟡ Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shagula&theme=react-dark&hide_border=true&bg_color=0D0221&color=B794F6&line=8A2BE2&point=ffffff" width="100%" />
-
-</div>
-
-## ⟡ Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/shagula/shagula/output/github-contribution-grid-snake.svg" width="100%" />
+**Artificial Intelligence & Cloud**
+<br>
+<img src="https://img.shields.io/badge/Introduction_to_Responsible_AI-Google_Cloud-181717?style=for-the-badge&logo=googlecloud&logoColor=A970FF" alt="Responsible AI" />
+<img src="https://img.shields.io/badge/Introduction_to_Generative_AI-Google_Cloud-181717?style=for-the-badge&logo=googlecloud&logoColor=A970FF" alt="Generative AI" />
+<img src="https://img.shields.io/badge/Introduction_to_LLMs-Google_Cloud-181717?style=for-the-badge&logo=googlecloud&logoColor=A970FF" alt="LLMs" />
 
 </div>
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Current Focus
+## ✦ Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/shagula737"><img src="https://img.shields.io/badge/LeetCode-Active_Problem_Solver-181717?style=for-the-badge&logo=leetcode&logoColor=A970FF" alt="LeetCode" /></a>
+<a href="https://credly.com/users/shagula737"><img src="https://img.shields.io/badge/Credly-Verified_Badges-181717?style=for-the-badge&logo=credly&logoColor=A970FF" alt="Credly" /></a>
+<a href="https://www.hackerrank.com/shagula737"><img src="https://img.shields.io/badge/HackerRank-Developer_Profile-181717?style=for-the-badge&logo=hackerrank&logoColor=A970FF" alt="HackerRank" /></a>
+
+</div>
+
+<div align="center">
+
+⬡ ────────────────────────────────────────────── ⬡
+
+</div>
+
+## ✦ GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shagula737&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A970FF&icon_color=8A2BE2&text_color=c9d1d9&ring_color=8A2BE2" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shagula737&theme=tokyonight&hide_border=true&background=0d0221&stroke=8A2BE2&ring=8A2BE2&fire=A970FF&currStreakLabel=A970FF" alt="GitHub Streak" width="48%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shagula737&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=A970FF" alt="Top Languages" width="50%" />
+</div>
+
+## ✦ GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shagula737&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</div>
+
+## ✦ Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shagula737&theme=tokyo-night&hide_border=true&bg_color=0d0221&color=A970FF&line=8A2BE2&point=ffffff" alt="Contribution Graph" width="100%" />
+</div>
+
+## ✦ Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/shagula737/shagula737/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
+</div>
+
+<div align="center">
+
+⬡ ────────────────────────────────────────────── ⬡
+
+</div>
+
+## ✦ Current Focus
 
 ```yaml
 learning:
-  - Advanced Python & core ML algorithms
+  - Advanced Machine Learning models
   - Deepening SAP RAP & clean-core extension patterns
   - Data Structures & Algorithms (LeetCode)
 
@@ -387,30 +376,30 @@ soft_skills:
   - Problem Solving
 
 open_to:
-  - Software Developer roles
+  - SAP ABAP Cloud Developer roles
+  - Software Developer (Full Stack) roles
   - AI / ML Engineer opportunities
-  - SAP ABAP Cloud Developer positions
   - Internships & collaborative final-year projects
 ```
 
 <div align="center">
 
-`⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡` `⬡`
+⬡ ────────────────────────────────────────────── ⬡
 
 </div>
 
-## ⟡ Let's Connect
+## ✦ Let's Connect
 
 <div align="center">
 
-<a href="mailto:shagula737@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-1a0033?style=for-the-badge&logo=gmail&logoColor=B794F6" /></a>
-<a href="https://linkedin.com/in/shagula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1a0033?style=for-the-badge&logo=linkedin&logoColor=B794F6" /></a>
-<a href="https://github.com/shagula" target="_blank"><img src="https://img.shields.io/badge/GitHub-1a0033?style=for-the-badge&logo=github&logoColor=B794F6" /></a>
+<a href="mailto:shagula737@gmail.com"><img src="https://img.shields.io/badge/Gmail-181717?style=for-the-badge&logo=gmail&logoColor=A970FF" /></a>
+<a href="https://linkedin.com/in/shagula737"><img src="https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=A970FF" /></a>
+<a href="https://github.com/shagula737"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=A970FF" /></a>
 
-<br/><br/>
+<br><br>
 
 *"Clean core today, intelligent systems tomorrow."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,50:4B0082,100:1a0033&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&customColorList=2,1d003b,4b0082,8a2be2,4b0082,1d003b&height=150&section=footer" />
 
 </div>
