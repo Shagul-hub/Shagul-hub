@@ -9,7 +9,7 @@
 
   <!-- Academic & Location Badges -->
   <img src="https://img.shields.io/badge/B.Tech_AI_&_Data_Science-181717?style=for-the-badge&logo=googlescholar&logoColor=8A2BE2" alt="Degree" />
-  <img src="https://img.shields.io/badge/Location-Kallakurichi,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=8A2BE2" alt="Location" />
+  <img src="https://img.shields.io/badge/Location-Coimbatore,_India-181717?style=for-the-badge&logo=googlemaps&logoColor=8A2BE2" alt="Location" />
   
   <br><br>
 
